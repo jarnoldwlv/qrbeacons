@@ -16,23 +16,23 @@ I've included the PowerPoint file, and digital copies of the examples used on 17
 Examples used were:
 - An Audio Flyer for a production of Mind the Gap's "Mia: Daughters of Fortune" at the Arena Theatre.
 
-![QR Code in Isolation](https://lh4.googleusercontent.com/kOuWQBIGdK-eaU0s__qNqrIJ4H46__07io8dOrh8dm79Lmc-WaZnUmsEIEI83i9eXflxrkgqQNVDQ3dEeMZR=w1366-h647)
+![QR Code in Isolation](https://github.com/jarnoldwlv/qrbeacons/blob/master/AUDIO%20FLYER%20QR%20CODE.png?raw=true)
 
-![QR Code in Situ](https://lh5.googleusercontent.com/JrgQ891sPJqGzI4KzW7SSPTtjMDzhpsT_Cr5bvMl4gjEo6oL88RU0nEt1dQc5XQ16d-t6XUZOZdAfMBU5FYk=w1366-h647-rw)
+![QR Code in Situ](https://github.com/jarnoldwlv/qrbeacons/blob/master/Audio%20Flyer%20Mia%20QR%20Beacon%20Example.jpg?raw=true)
 
 - Artist Biographies for Marie Sewell and Neil Hodgkiss who created #25 "Fenrir" as part of the Wolves in Wolves Art Trail in 2017, currently housed at the Arena Theatre.
 
-![QR Code in Isolation: Marie Sewell](https://lh5.googleusercontent.com/alXmfHR43jGvF0P42efwW3cZIBbx5TQdJ0M7kk9CXQ1rDDEBTSeYV-uJLxuynzUCFeh-S2YdKhPmRYslpXyB=w1366-h647)
+![QR Code in Isolation: Marie Sewell](https://github.com/jarnoldwlv/qrbeacons/blob/master/WIW%20Marie%20Sewell%20Code.png?raw=true)
 
-![QR Code in Isolation: Neil Hodgkiss](https://lh6.googleusercontent.com/SkDVDixJ6CEaOizOTPV9dvtw7uEo5Jr1TlMsgu6En2m7DMPuCmgoJ_s7P56GRECUK2uPEm1-Ku_37hRLFvej=w1366-h647)
+![QR Code in Isolation: Neil Hodgkiss](https://github.com/jarnoldwlv/qrbeacons/blob/master/WIW%20Neil%20Hodgkiss%20Code.png?raw=true)
 
-![QR Codes in Situ](https://lh5.googleusercontent.com/WAypZ-4hrR1Gi2ZrbBHGT6tLPFlgOzreCyE628bo2HAAOvM886fo_s9Q9W6v6rfOybcy8rtx_xDi6jjSB8PC=w1366-h647-rw)
+![QR Codes in Situ](https://github.com/jarnoldwlv/qrbeacons/blob/master/Meet%20the%20Artists%20QR%20Beacon%20Example.jpg?raw=true)
 
 - A "Cliched Video Game-style Audio Log" and the accompanying artwork for an Audio-based art trial project.
 
-![QR Code in Isolation](https://lh5.googleusercontent.com/hfIPyOMhIEcMnvV3PQusLEO230o5J9FP9EV032oMnvFGa4dgqTy-DNErxT1SZ-DMyuTPd3QHFpRvBVq6ARWI=w1366-h647)
+![QR Code in Isolation](https://github.com/jarnoldwlv/qrbeacons/blob/master/VG%20LOG%20QR%20CODE.png?raw=true)
 
-![QR Code in Situ](https://lh4.googleusercontent.com/on5I8QFn5WUOM2HAyn6HCPsqasbksBYtZXD7R29uGVwZe4z_P1RlQDCQO5s-ZjUz3dJXmD87mEgZoPnyy1Z0=w1366-h647-rw)
+![QR Code in Situ](https://github.com/jarnoldwlv/qrbeacons/blob/master/Cliche%20VG%20Log%20QR%20Beacon.jpg?raw=true)
 
 - The Live Demonstration, where I recorded my introduction, and went through the process in real time.
-![QR Code](https://lh4.googleusercontent.com/_pV6LNzTOMRL-TDhywSNKhHj6l-QLkoEKUh5jp27OfNljQLbESGs8vu79BClYxaWuvhT_eJfhlFH7OGUQdqV=w1366-h647)
+![QR Code](https://github.com/jarnoldwlv/qrbeacons/blob/master/Live%20Demo%20QR%20Code.png?raw=true)
